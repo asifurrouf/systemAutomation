@@ -160,14 +160,14 @@ testing very nicely so your tests run much faster.
 
 ### Some More Documentation on Frisby.js
 Some [More frisbyjs.com](https://ian_lin.gitbooks.io/javascript-testing/content/chapter4.html),
-1]npm install frisby --save-dev
-2]sudo npm install frisby --save-dev (if required)
-3]npm install --save-dev jest
-4]sudo npm install --save-dev jest(if required)
-5]npm install jasmine-node -g
-6]sudo npm install jasmine-node -g
-7]jasmine-node --coffee putTestNameHere
-8]jasmine-node file.js
+1]npm install frisby --save-dev,
+2]sudo npm install frisby --save-dev (if required),
+3]npm install --save-dev jest,
+4]sudo npm install --save-dev jest(if required),
+5]npm install jasmine-node -g,
+6]sudo npm install jasmine-node -g,
+7]jasmine-node --coffee putTestNameHere,
+8]jasmine-node file.js,
 9]jasmin-node moduleTestCases_spec.js [Install jasmine-node module](https://stackoverflow.com/questions/35638251/how-to-run-specific-tests-with-frisby)
 
 ### How to run specific tests with frisby?
