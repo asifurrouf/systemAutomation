@@ -23,15 +23,15 @@ Frisby Main [Docs](https://github.com/vlucas/frisby/blob/master/README.md)
 
 ### Some More Documentation on Frisby.js
 Some [More frisbyjs.com](https://ian_lin.gitbooks.io/javascript-testing/content/chapter4.html),
--npm install frisby --save-dev,
--sudo npm install frisby --save-dev (if required),
--npm install --save-dev jest,
--sudo npm install --save-dev jest(if required),
--npm install jasmine-node -g,
--sudo npm install jasmine-node -g,
--jasmine-node --coffee putTestNameHere,
--jasmine-node file.js,
--jasmin-node moduleTestCases_spec.js [Install jasmine-node module](https://stackoverflow.com/questions/35638251/how-to-run-specific-tests-with-frisby)
+npm install frisby --save-dev*
+sudo npm install frisby --save-dev (if required)*
+npm install --save-dev jest*
+sudo npm install --save-dev jest(if required)*
+npm install jasmine-node -g*
+sudo npm install jasmine-node -g*
+jasmine-node --coffee putTestNameHere*
+jasmine-node file.js*
+jasmin-node moduleTestCases_spec.js [Install jasmine-node module](https://stackoverflow.com/questions/35638251/how-to-run-specific-tests-with-frisby)
 
 ### How to run specific tests with frisby?
 To run specific tests with frisby please [see](https://stackoverflow.com/questions/35638251/how-to-run-specific-tests-with-frisby)
