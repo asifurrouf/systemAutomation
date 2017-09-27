@@ -15,6 +15,7 @@ endpoints easy, fast and fun.To have some cool staff [see here](https://ptmccart
 * [Command List](https://github.com/mattfysh/cheat-sinon-jasmine/blob/master/readme.md)
 * [Commands_Jasmin 2](https://github.com/lennonjesus/jasmine2-cheatsheet/blob/master/README.md)
 * [Command Search](https://github.com/search?utf8=%E2%9C%93&q=jasmine+cheat&type=)
+* [Jasmine Node Webdriver](https://github.com/gleneivey/jasmine-node-webdriver)
 
 ## Installation
 
@@ -49,11 +50,11 @@ To run specific tests with frisby please [see](https://stackoverflow.com/questio
 
 ### SimpleFrisbyExample
 
-[SimpleFrisbyExample](https://github.com/iangemtek/SimpleFrisbyExample/tree/master/node_modules/frisby/examples)
-
-[Project](https://github.com/iangemtek/SimpleFrisbyExample)
-
-[Examples](https://github.com/search?utf8=%E2%9C%93&q=frisby+example&type=)
+* [Frisby Example 01](https://github.com/iangemtek/SimpleFrisbyExample/tree/master/node_modules/frisby/examples)
+* [Frisby Example 02](https://github.com/Jenyaya/frisby-example)
+* [Project](https://github.com/iangemtek/SimpleFrisbyExample)
+* [Protractor-Frisby](https://github.com/igniteram/protractor-frisby)
+* [Examples](https://github.com/search?utf8=%E2%9C%93&q=frisby+example&type=)
 
 
 ### Documentation
