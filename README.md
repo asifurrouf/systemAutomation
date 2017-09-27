@@ -1,8 +1,6 @@
-# Frisby
+#Api Automaion
 
-[![NPM](https://nodei.co/npm/frisby.png)](https://nodei.co/npm/frisby/)
-[![Build
-Status](https://travis-ci.org/vlucas/frisby.png?branch=master)](https://travis-ci.org/vlucas/frisby)
+
 
 ## Introduction
 
@@ -11,9 +9,11 @@ endpoints easy, fast and fun.To have some cool staff [see here](https://ptmccart
 
 ## Jasmin [Behavior-Driven Javascript]
 * [Core Docs](https://jasmine.github.io/pages/docs_home.html)
+* [Python Integration](https://github.com/jasmine/jasmine-py)
 * [Commands/Process](https://jasmine.github.io/2.0/introduction.html)
 * [Command List](https://github.com/mattfysh/cheat-sinon-jasmine/blob/master/readme.md)
 * [Commands_Jasmin 2](https://github.com/lennonjesus/jasmine2-cheatsheet/blob/master/README.md)
+* [Jasmine-unit_testing](https://github.com/Galleria/Jasmine-unit_testing-CheatSheet)
 * [Command Search](https://github.com/search?utf8=%E2%9C%93&q=jasmine+cheat&type=)
 * [Jasmine Node Webdriver](https://github.com/gleneivey/jasmine-node-webdriver)
 
