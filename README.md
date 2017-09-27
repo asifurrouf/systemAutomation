@@ -33,6 +33,10 @@ Some [More frisbyjs.com](https://ian_lin.gitbooks.io/javascript-testing/content/
 * jasmine-node file.js
 * jasmin-node moduleTestCases_spec.js [Install jasmine-node module](https://stackoverflow.com/questions/35638251/how-to-run-specific-tests-with-frisby)
 
+### run npm command gives error "/usr/bin/env: node: No such file or directory"
+* sudo ln -s /usr/bin/nodejs /usr/bin/node (run this command, if you install from a package manager you bin may be called nodejs so you just need to symlink it)[Details](https://github.com/nodejs/node-v0.x-archive/issues/3911)
+
+
 ### How to run specific tests with frisby?
 To run specific tests with frisby please [see](https://stackoverflow.com/questions/35638251/how-to-run-specific-tests-with-frisby)
 
