@@ -1,5 +1,8 @@
 #Api Automaion
 
+* [polytester](https://github.com/skoczen/polytester) is a simple, easy-to-use multi-language test runner.
+* [Django-Jasmine](https://github.com/jakeharding/django-jasmine)
+* [Karma Html Reporter](https://github.com/dtabuenc/karma-html-reporter)
 
 
 ## Introduction
@@ -16,6 +19,9 @@ endpoints easy, fast and fun.To have some cool staff [see here](https://ptmccart
 * [Jasmine-unit_testing](https://github.com/Galleria/Jasmine-unit_testing-CheatSheet)
 * [Command Search](https://github.com/search?utf8=%E2%9C%93&q=jasmine+cheat&type=)
 * [Jasmine Node Webdriver](https://github.com/gleneivey/jasmine-node-webdriver)
+
+## Karma Advantage
+* [Karma Vs Others](https://stackoverflow.com/questions/26032124/karma-vs-testing-framework-jasmine-mocha-qunit)
 
 ## Installation
 
