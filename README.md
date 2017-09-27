@@ -7,7 +7,11 @@ Status](https://travis-ci.org/vlucas/frisby.png?branch=master)](https://travis-c
 ## Introduction
 
 Frisby.js an API testing tool built on top of Jasmine that makes testing API
-endpoints easy, fast and fun.
+endpoints easy, fast and fun.To have some cool staff [see here](https://ptmccarthy.github.io/2014/06/28/rest-testing-with-frisby/)
+
+## Jasmin [Behavior-Driven Javascript]
+* [Core Docs](https://jasmine.github.io/pages/docs_home.html)
+* [Commands/Process](https://jasmine.github.io/2.0/introduction.html)
 
 ## Installation
 
