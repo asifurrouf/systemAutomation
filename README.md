@@ -12,6 +12,9 @@ endpoints easy, fast and fun.To have some cool staff [see here](https://ptmccart
 ## Jasmin [Behavior-Driven Javascript]
 * [Core Docs](https://jasmine.github.io/pages/docs_home.html)
 * [Commands/Process](https://jasmine.github.io/2.0/introduction.html)
+* [Command List](https://github.com/mattfysh/cheat-sinon-jasmine/blob/master/readme.md)
+* [Commands_Jasmin 2](https://github.com/lennonjesus/jasmine2-cheatsheet/blob/master/README.md)
+* [Command Search](https://github.com/search?utf8=%E2%9C%93&q=jasmine+cheat&type=)
 
 ## Installation
 
